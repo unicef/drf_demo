@@ -1,3 +1,0 @@
-django>=5.1.6
-djangorestframework>=3.15.2
-drf-nested-routers>=0.94.1
