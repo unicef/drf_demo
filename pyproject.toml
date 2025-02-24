@@ -1,0 +1,13 @@
+[project]
+name = "rest-api"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "django>=5.1.6",
+    "djangorestframework>=3.15.2",
+    "drf-nested-routers>=0.94.1",
+]
+
+[tool.uv]
+package = true
